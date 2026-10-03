@@ -1,138 +1,70 @@
-👋 Hi, I'm Vadla Hemanth
+# Vadla Hemanth
 
-📍 Hyderabad, Telangana
-📧 vadlahemanth123@gmail.com
-📱 +91-9440863963
-🔗 "GitHub" (https://github.com/Vadla-Hemanth)
+**Software Development & Applied AI**
 
----
+Hyderabad, Telangana, India
 
-🚀 Professional Summary
+[View résumé PDF](https://github.com/Vadla-Hemanth/Resume/blob/main/website/assets/Vadla-Hemanth-Resume.pdf) · [Download PDF](https://github.com/Vadla-Hemanth/Resume/raw/refs/heads/main/website/assets/Vadla-Hemanth-Resume.pdf) · [Web résumé](https://portfolio.hemanthvadla.tech/resume.html) · [Portfolio](https://portfolio.hemanthvadla.tech/)
 
-A motivated developer and design enthusiast currently pursuing dual degrees in Data Science and Computer Science. Skilled in web development, API integrations, and content management, with a focus on building optimized and user-friendly digital experiences.
+[GitHub](https://github.com/VadlaHemanth) · [LinkedIn](https://www.linkedin.com/in/vadlahemanth/) · [Kaggle](https://www.kaggle.com/hemanthvadla) · [Email](mailto:vadlahemanth123@gmail.com)
 
----
+## Profile
 
-🎓 Education
+Computer science and data science undergraduate building Python applications and applied-AI prototypes with AI-assisted development and hands-on testing.
 
-Indian Institute of Technology Madras (IITM)
+## Education
 
-BS in Data Science and Applications
-📅 April 2025 – Expected 2029
+- **Nalla Narasimha Reddy Education Society's Group of Institutions (NNRG)**
+  B.Tech in Computer Science — **In progress · Expected 2029**
+- **Indian Institute of Technology Madras**
+  BS in Data Science and Applications — **In progress · Expected 2029**
 
-Nalla Narasimha Reddy Education Society's Group of Institutions (NNRG)
+## Selected projects
 
-B.Tech in Computer Science
-📅 August 2025 – Expected 2029
+### Attendance ERP
 
----
+*In-progress prototype*
 
-💻 Technical Skills
+- Develop a Flask/PostgreSQL college-workflow prototype connecting InsightFace recognition with enrollment, attendance records, review, and reporting.
+- Integrate Celery/Redis processing and bulk imports; test capture quality, replay scenarios, and CPU/GPU fallback.
 
-🌐 E-commerce & Web Technologies
+### [Vendor Payment Memory Agent](https://github.com/VadlaHemanth/vendor-payment-memory-agent)
 
-- Wix
-- Shopify
-- HTML
-- CSS
-- JavaScript
-- Web Design
-- Cloudflare Workers
-- Cloudflare Pages
+*Hackathon demo*
 
-📈 Digital Marketing & CMS
+- Built a FastAPI demo that recalls prior invoice-exception resolutions with Hindsight to suggest actions for human review.
+- Added invoice validation and duplicate checks, with a local JSONL fallback when the memory service is unavailable.
 
-- Content Management
-- SEO Basics
-- Website Performance Tuning
-- Landing Page Conversion
+### Image Segmentation Research
 
-👨‍💻 Programming & APIs
+*Research prototype*
 
-- C
-- Python
-- RESTful APIs
-- Third-party API Integrations
+- Compared U-Net and DeepLabV3 in PyTorch using validation-based model selection and a separate held-out test set.
+- Exported a model for ONNX CPU inference; added resumable checkpoints.
 
-🎨 Design
+### [Google Drive Photo & Video Uploader](https://github.com/VadlaHemanth/gdrive-photo-uploader)
 
-- Graphic Design
-- Banner & Poster Creation
-- UI/UX Concepts
+*Self-hosted project*
 
----
+- Built a FastAPI and JavaScript uploader with chunked transfers, retry/resume, and a virtualized browser queue.
+- Connected background Rclone transfers to Google Drive with per-file progress.
 
-🛠️ Projects & Relevant Experience
+## Technical skills
 
-☁️ Serverless Web Application Architecture
+- **Languages:** Python, JavaScript, TypeScript, SQL, C, HTML, CSS
+- **Web & data:** FastAPI, Flask, React, PostgreSQL, SQLite, Redis, Celery
+- **Applied AI:** PyTorch, OpenCV, InsightFace, ONNX Runtime, Hindsight
+- **Tools:** Git, pytest, Cloudflare, Google Colab, Kaggle, Rclone
 
-Development Project
+## Leadership & activities
 
-🔗 https://tuition-platform.pages.dev/
+- Organized and led CodeMania and C Hunt technical events at NNRG.
+- Participated as a delegate at NNRG MUN 2026.
 
-- Developed a scalable web application infrastructure using Cloudflare Workers and Pages.
-- Integrated backend APIs for seamless data flow.
-- Focused on fast load times and a smooth user experience.
-- Managed serverless storage limitations and optimized functions for high-performance delivery.
+## Contact
+
+[vadlahemanth123@gmail.com](mailto:vadlahemanth123@gmail.com) · [+91 94408 63963](tel:+919440863963)
 
 ---
 
-🎨 Digital Design & Content Creation
-
-Freelance / Project Work
-
-🔗 https://www.umeinteriors.com/
-
-- Designed promotional materials for local brands including UME INTERIORS.
-- Created visual assets for web banners, landing pages, and content updates.
-- Applied modern aesthetic principles to digital layouts to improve visual engagement.
-
----
-
-🤖 Automated API Integration System
-
-Technical Project
-
-🔗 https://github.com/Vadla-Hemanth/Automatic-Attendance-System
-
-- Integrated the InsightFace Buffalo_L model for an automated tracking system.
-- Worked with complex APIs and automated data-processing workflows.
-- Focused on reliable data handling and system performance optimization.
-
----
-
-🏆 Leadership & Extracurricular Activities
-
-👨‍💻 Event Team Leader
-
-Organized and led technical events including CodeMania and C Hunt at NNRG.
-
-🌐 Delegate — NNRG MUN 2026
-
-Represented and actively participated in the NNRG Model United Nations 2026.
-
-🧮 Technical Presentation
-
-Prepared a specialized poster presentation for National Mathematics Day exploring the intersection of mathematics and machine intelligence.
-
----
-
-📊 Areas of Interest
-
-- Data Science
-- Artificial Intelligence
-- Machine Learning
-- Web Development
-- API Integration
-- Cloud & Serverless Architecture
-- UI/UX & Digital Design
-- Automation
-
----
-
-📫 Connect With Me
-
-If you're interested in technology, AI, Data Science, web development, or innovative projects, feel free to connect with me.
-
-GitHub: "Vadla-Hemanth" (https://github.com/Vadla-Hemanth)
-Email: vadlahemanth123@gmail.com
+The one-page résumé is available as a PDF and accessible HTML. The [editable content](design/resume-data.json) and [build note](BUILD.md) are included for maintenance.
